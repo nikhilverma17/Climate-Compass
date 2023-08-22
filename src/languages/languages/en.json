@@ -1,0 +1,32 @@
+{
+    "translation": {
+      "title": "Want to know weather forcast !",
+      "today": "Today",
+      "explore": "#Explore ?",
+      "more-on": "More On",
+      "no-data": "No Data Yet",
+      "unknown-location": "Unknown location",
+      "realFeel": "Real Feel",
+      "cover": "Cloud Cover",
+      "humidity": "Humidity",
+      "min-temp": "Min Temp",
+      "max-temp": "Max Temp",
+      "languages": {
+        "en": "English",
+        "ta": "Tamil",
+        "bn": "Bangla",
+        "hnd": "Hindi",
+        "te":"Telugu",
+        "pu":"Punjabi",
+        "ur":"Urdu",
+        "gu":"Gujrati",
+        "ka":"Kannada",
+        "ma":"Malayalam",
+        "mar":"Marathi",
+        "od":"Odia",
+        "sns":"Sanskrit"
+
+      }
+    }
+  }
+  

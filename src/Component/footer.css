@@ -1,0 +1,14 @@
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-self: center;
+    padding: 10px;
+    background: rgb(128,122,122);
+    background: linear-gradient(131deg, rgba(128,122,122,1) 40%, rgba(6,249,255,1) 60%);
+}
+.icon1{
+    margin: 15px;
+    padding-top: 15px;
+    color: rgb(255, 0, 0);
+}

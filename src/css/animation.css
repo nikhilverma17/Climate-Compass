@@ -1,0 +1,37 @@
+.logo {
+    font-weight: bold;
+    font-size: 1.25rem;
+    background: -webkit-linear-gradient(#fd0000, #ffd901c7);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-color: var(--cardColor);
+    padding: 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.75rem;
+    font-size: 1.5rem;
+}
+img{
+    height: 5rem;
+    width: 5rem;
+}
+@media only screen and (max-width: 768px) {
+    .logo {
+      font-size: 1.25rem;
+    }
+    img{
+        height: 4rem;
+        width: 4rem;
+    }
+}
+@media only screen and (max-width: 480px){
+    .logo{
+        font-size: 0.95rem;
+    }
+    img{
+        height: 3rem;
+        width: 3rem;
+    }
+}
