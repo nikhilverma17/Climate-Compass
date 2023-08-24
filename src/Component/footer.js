@@ -12,7 +12,7 @@ function Footer(){
           <a href="https://www.linkedin.com/in/nihkil-verma-465848139/" target="_blank"><i
             class="icon1 fa-brands fa-linkedin fa-2xl"></i></a>
           <a href="https://twitter.com/thenikhil_verma" target="_blank"><i
-            class="icon1 fa-brands fa-twitter fa-2xl"></i></a>
+            class="icon1 fa-brands fa-x-twitter fa-2xl"></i></a>
           <a href="https://www.instagram.com/thevermanikhil/" target="_blank"><i
             class="icon1 fa-brands fa-instagram fa-2xl"></i></a>
         </div>
